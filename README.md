@@ -1,1 +1,1 @@
-# packmol-addon
+# nbfix_generator
