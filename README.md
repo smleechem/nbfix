@@ -36,9 +36,6 @@ nbfix/
       └─ osmotic_nacl_298K.png   # figure used in README
 ```
 
-> If you cloned this README directly, place your PNG at `docs/img/osmotic_nacl_298K.png`.
-> The path above matches the `<img>` tag at the top.
-
 ---
 
 ## Quick start
