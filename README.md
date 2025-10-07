@@ -183,9 +183,3 @@ MIT (see `LICENSE`).
 ## Acknowledgements
 
 Thanks to the OpenMM and MDAnalysis communities. The MD selection writer uses **openmm-mdanalysis-reporter** to dump `sel.dcd` efficiently.
-
----
-
-### Maintainer
-
-* **S.M. Lee** — issues and PRs welcome at [https://github.com/smleechem/nbfix/](https://github.com/smleechem/nbfix/).
