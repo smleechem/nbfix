@@ -1,4 +1,4 @@
-# NBFIX Tuning for Concentrated NaCl Solutions via Osmotic Pressure
+# NBFIX Tuning for NaCl Solutions via Osmotic Pressure Method
 
 <img width="3212" height="1503" alt="fig1" src="https://github.com/user-attachments/assets/b06fc485-a221-429b-84b5-27980acc45a3" />
 
