@@ -77,7 +77,7 @@ What it does:
 * NPT equilibration → NVT production at 298 K.
 * Adds a **half-harmonic wall** along **z**:
   [
-  $U_\text{wall}(z) = \tfrac{k_z}{2},\Big(\max(0, z - z_\text{max})^2 + \min(0, z - z_\text{min})^2\Big)$
+  $U_\text{wall}(z) = \tfrac{k_z}{2} \Big(\max(0, z - z_\text{max})^2 + \min(0, z - z_\text{min})^2\Big)$
   ]
 * Applies the wall **only** to ions (resnames `SOD`, `CLA`).
 * Writes reporters:
